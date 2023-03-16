@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Haiyan Jiang</title>
+    <link>https://Haiyan-Jiang.github.io/publication-type/3/</link>
+      <atom:link href="https://Haiyan-Jiang.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Haiyan-Jiang.github.io/media/icon_hu05313266572ec5f4f73801acaccd8e2b_120939_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://Haiyan-Jiang.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>[2021 ICVRV] Enriched Thumb-to-fingertip Gesture Based Input for Virtual Environments</title>
+      <link>https://Haiyan-Jiang.github.io/publication/preprint/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://Haiyan-Jiang.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

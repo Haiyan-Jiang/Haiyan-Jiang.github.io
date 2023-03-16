@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Haiyan Jiang</title>
+    <link>https://Haiyan-Jiang.github.io/publication-type/2/</link>
+      <atom:link href="https://Haiyan-Jiang.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Haiyan-Jiang.github.io/media/icon_hu05313266572ec5f4f73801acaccd8e2b_120939_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://Haiyan-Jiang.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>[2022 IJHCI] PinchText: One-Handed Text Entry Technique Combining Pinch Gestures and Hand Positions for Head-Mounted Displays</title>
+      <link>https://Haiyan-Jiang.github.io/publication/journal-pinchtext/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://Haiyan-Jiang.github.io/publication/journal-pinchtext/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2019 Sensors] HiFinger: One-Handed Text Entry Technique for Virtual Environments Based on Touches between Fingers</title>
+      <link>https://Haiyan-Jiang.github.io/publication/journal-hifinger/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://Haiyan-Jiang.github.io/publication/journal-hifinger/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

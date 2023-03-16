@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text Entry | Haiyan Jiang</title>
+    <link>https://Haiyan-Jiang.github.io/tag/text-entry/</link>
+      <atom:link href="https://Haiyan-Jiang.github.io/tag/text-entry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Text Entry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Haiyan-Jiang.github.io/media/icon_hu05313266572ec5f4f73801acaccd8e2b_120939_512x512_fill_lanczos_center_3.png</url>
+      <title>Text Entry</title>
+      <link>https://Haiyan-Jiang.github.io/tag/text-entry/</link>
+    </image>
+    
+    <item>
+      <title>[2020 VR] HiPad: Text entry for Head-Mounted Displays Using Circular Touchpad</title>
+      <link>https://Haiyan-Jiang.github.io/publication/conference-hipad/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://Haiyan-Jiang.github.io/publication/conference-hipad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2019 Sensors] HiFinger: One-Handed Text Entry Technique for Virtual Environments Based on Touches between Fingers</title>
+      <link>https://Haiyan-Jiang.github.io/publication/journal-hifinger/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://Haiyan-Jiang.github.io/publication/journal-hifinger/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
